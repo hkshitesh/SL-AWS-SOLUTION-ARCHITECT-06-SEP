@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,department,salary
+1,John,Doe,Engineering,75000
+2,Jane,Smith,Finance,82000
+3,Bob,Johnson,Engineering,65000
+4,Alice,Williams,Marketing,72000
+5,Tom,Brown,Finance,90000
