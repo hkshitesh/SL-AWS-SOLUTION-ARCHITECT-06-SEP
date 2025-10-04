@@ -15,3 +15,5 @@ sudo apt install docker-ce docker-ce-cli containerd.io
 sudo systemctl start docker
 
 sudo systemctl enable docker
+
+docker run -d -p 8004:80 nginx 
